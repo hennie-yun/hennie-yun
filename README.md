@@ -1,5 +1,10 @@
 ![matt-hardy-6ArTTluciuA-unsplash](https://github.com/hennie-yun/hennie-yun/assets/129652734/54488c3c-1965-42b9-8017-c1c0f4da142b)
 
+<h3 align="center">👋 It's me! 👋</h3>
+<p align="center">
+  <b>Full-Stack Developer</b> 👩‍💻 <br>
+  <b>I'm growing everyday</b> 🌿
+</p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
