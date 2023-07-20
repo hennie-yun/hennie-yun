@@ -1,14 +1,14 @@
 ![image](https://github.com/hennie-yun/hennie-yun/assets/129652734/5215941e-9b51-4560-a530-9deed3c13f16)
  <br>
   <br>
-<h3 align="center">☀️ It's me! ☀️</h3>
+<h3 align="center">🔆 It's me! 🔆</h3>
  <br>
 <p align="center">
  💻 <b>Full-Stack Developer</b>  <br>
  🌱 <b>I'm growing everyday</b> 
 </p>
  <br>
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🔨 Tech Stack 🔨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
