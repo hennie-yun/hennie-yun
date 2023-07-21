@@ -1,5 +1,5 @@
-![image](https://github.com/hennie-yun/hennie-yun/assets/129652734/5215941e-9b51-4560-a530-9deed3c13f16)
-![image](https://github.com/hennie-yun/hennie-yun/assets/129652734/f224690b-f6e8-44e6-a1b4-a608a370e875)
+![image](https://github.com/hennie-yun/hennie-yun/assets/129652734/8bfdc114-898e-4934-a806-b5c0601e1f6d)
+
 
  <br>
   <br>
