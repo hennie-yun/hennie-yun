@@ -1,4 +1,6 @@
 ![image](https://github.com/hennie-yun/hennie-yun/assets/129652734/5215941e-9b51-4560-a530-9deed3c13f16)
+![image](https://github.com/hennie-yun/hennie-yun/assets/129652734/f224690b-f6e8-44e6-a1b4-a608a370e875)
+
  <br>
   <br>
 <h3 align="center">🔆 It's me! 🔆</h3>
