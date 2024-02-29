@@ -5,8 +5,12 @@
   <br>
 <h3 align="center">🔆 It's me! 🔆</h3>
  <br>
+ <p align="center">
+ 💼 <b> Currently developing Mobile App </b>  <br>
+</p>
 <p align="center">
- 💻 <b>Full-Stack Developer</b>  <br>
+ 💻 <b>Full-Stack Developer</b>   <br>
+ 📱<b>I can do Web and Mobile both</b><br>
  🌱 <b>I'm growing everyday</b> 
 </p>
  <br>
@@ -19,6 +23,11 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/flutter-#02569B?style=flat-square&logo=flutter&logoColor=#02569B">
+  <img src="https://img.shields.io/badge/dart-#0175C2?style=flat-square&logo=dart&logoColor=#0175C2">
+  <img src="https://img.shields.io/badge/swift-#F05138?style=flat-square&logo=swift&logoColor=#F05138">
+  <img src="https://img.shields.io/badge/xcode-#147EFB?style=flat-square&logo=xcode&logoColor=#147EFB">
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
@@ -36,7 +45,6 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </p>
  <br>
